@@ -1,4 +1,0 @@
-# TarikTest
-
-bla
-vla
